@@ -4,7 +4,12 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-12-17T22:21:42+01:00</lastmod>
+    <lastmod>2019-08-09T14:05:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2019-08-09T14:05:13+00:00</lastmod>
   </url>
   
   <url>
@@ -16,37 +21,41 @@
   </url>
   
   <url>
-    <loc>/posts/16-things-free-songs/</loc>
-    <lastmod>2018-12-17T22:21:42+01:00</lastmod>
+    <loc>/tags/rsv/</loc>
+    <lastmod>2019-08-09T14:05:13+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/posts/</loc>
-    <lastmod>2018-12-17T22:21:42+01:00</lastmod>
-    <priority>0</priority>
+    <loc>/posts/rsv-2019/</loc>
+    <lastmod>2019-08-09T14:05:13+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2018-12-17T22:21:42+01:00</lastmod>
+    <lastmod>2019-08-09T14:05:13+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/free/</loc>
-    <lastmod>2018-12-17T22:21:42+01:00</lastmod>
+    <loc>/events/</loc>
+    <lastmod>2019-08-09T13:57:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/hpv/</loc>
+    <lastmod>2018-08-09T14:05:13+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/music/</loc>
-    <lastmod>2018-12-17T22:21:42+01:00</lastmod>
-    <priority>0</priority>
+    <loc>/posts/hpv-videos/</loc>
+    <lastmod>2018-08-09T14:05:13+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/songs/</loc>
-    <lastmod>2018-12-17T22:21:42+01:00</lastmod>
+    <loc>/tags/immunization/</loc>
+    <lastmod>2018-08-09T14:05:13+00:00</lastmod>
     <priority>0</priority>
   </url>
   

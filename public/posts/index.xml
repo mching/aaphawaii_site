@@ -1,22 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Hawaii Chapter, American Academy of Pediatrics</title>
+    <title>News and Resources on Hawaii Chapter, American Academy of Pediatrics</title>
     <link>/posts/</link>
-    <description>Recent content in Posts on Hawaii Chapter, American Academy of Pediatrics</description>
+    <description>Recent content in News and Resources on Hawaii Chapter, American Academy of Pediatrics</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 17 Dec 2018 22:21:42 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 09 Aug 2019 14:05:13 +0000</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>16 things that won&#39;t happen in free songs</title>
-      <link>/posts/16-things-free-songs/</link>
-      <pubDate>Mon, 17 Dec 2018 22:21:42 +0100</pubDate>
+      <title>RSV Update 2019</title>
+      <link>/posts/rsv-2019/</link>
+      <pubDate>Fri, 09 Aug 2019 14:05:13 +0000</pubDate>
       
-      <guid>/posts/16-things-free-songs/</guid>
-      <description>5 ways country song ringtones can make you rich. Why country music festivals will change your life. The unconventional guide to music notes. Why our world would end if music videos disappeared. 8 insane (but true) things about top country songs. How twitter can teach you about popular songs. 13 facts about latin music videos that&amp;rsquo;ll keep you up at night. Why do people think free dances are a good idea?</description>
+      <guid>/posts/rsv-2019/</guid>
+      <description>The following PDF document is the Guidelines for Prophylaxis for RSV Infections in High-Risk Infants in Hawaii which is developed by the Consensus Committee, which is comprised of neonatologists, pediatricians, hospitalists, pediatric intensivists, pediatric specialists, and insurance representatives from various hospital and medical groups on Oahu and the neighbor islands every year prior to the RSV season.
+This committee also welcomes comments from community pediatricians and other healthcare providers regarding RSV infections in their practices and the impact of these guidelines.</description>
+    </item>
+    
+    <item>
+      <title>HPV Vaccine Videos</title>
+      <link>/posts/hpv-videos/</link>
+      <pubDate>Thu, 09 Aug 2018 14:05:13 +0000</pubDate>
+      
+      <guid>/posts/hpv-videos/</guid>
+      <description>MDH has created a 12-minute video for health care providers on HPV vaccine communication. The video begins with humorous vignettes and then presents four model clinical encounters in which providers demonstrate low-stress ways of recommending HPV vaccine and answering questions from patients and parents. Each of the model encounters can also be viewed individually.</description>
     </item>
     
   </channel>

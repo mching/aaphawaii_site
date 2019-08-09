@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>immunization on Hawaii Chapter, American Academy of Pediatrics</title>
+    <link>/tags/immunization/</link>
+    <description>Recent content in immunization on Hawaii Chapter, American Academy of Pediatrics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 09 Aug 2018 14:05:13 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/immunization/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HPV Vaccine Videos</title>
+      <link>/posts/hpv-videos/</link>
+      <pubDate>Thu, 09 Aug 2018 14:05:13 +0000</pubDate>
+      
+      <guid>/posts/hpv-videos/</guid>
+      <description>MDH has created a 12-minute video for health care providers on HPV vaccine communication. The video begins with humorous vignettes and then presents four model clinical encounters in which providers demonstrate low-stress ways of recommending HPV vaccine and answering questions from patients and parents. Each of the model encounters can also be viewed individually.</description>
+    </item>
+    
+  </channel>
+</rss>
