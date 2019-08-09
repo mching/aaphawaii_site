@@ -2,7 +2,7 @@
 description: ""
 draft: false
 images:
-- undraw_freelancer_b0my.svg
+- Hero1.jpg
 menu: main
 title: Home
 weight: 1

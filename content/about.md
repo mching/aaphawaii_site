@@ -23,62 +23,6 @@ The Chapter holds dinner meetings sharing news from the AAP and local topics of 
 
 Chapter members represent the interests of children and their doctors on numerous committee and boards, in State government (such as DOE and DOH) as well as in public/private coalitions.
 
-# Chapter Facts
-I already belong to the National AAP, why should I become a member of the Hawaii Chapter?
-
-Hawaii Chapter is a forum for member ideas, concerns and communication that impact you at the local as well as national level.
-
-
-Advocacy
-
-HAAP is actively examining the needs of the children we treat as well as the needs of the pediatricians in our community. We have sought to establish dialogue and credibility with those that set health care policy. By joining the chapter one can more effectively participate in making the concerns of pediatricians known and contribute to the work needed to change our health care environment so that we can continuously push to deliver health care for children in a more optimal manner.
-Increase your knowledge of advocacy activities at a local level.
-Increase involvement in the legislative arena to positively influence the quality of pediatric practice and the welfare of children in your state.
-Build coalitions with other organizations working toward improving children’s health and well-being.
-Promote the interests of Hawaii pediatricians in the American Academy of Pediatrics.
- 
-
-Leadership
-
-Participate in chapter initiatives in the community.
- 
-
-Networking
-
-Network with other pediatricians with similar interests.
-Be nominated to serve on national AAP committees and sections.
- 
-
-Education
-
-Receive informative Chapter communiqués.
-Members receive discounted registration fees for CME meetings and other events.
-Become familiar with the issues facing pediatricians in Hawaii.
- 
-
-What has your Chapter done lately?
-
-Sponsored a half-day education meeting, both in the Spring and Fall, providing attendees with CME.
-Dinner meetings with presentations on local hot topics.
-Partners with the Healthy Child Care Hawaii project to train and link pediatricians as health consultants to child care centers.
-Partners with HICORE (Hawaii Initiative on Childhood Obesity Research and Education) to educate physicians and the community on childhood obesity issues.
-Participates in the annual RSV Prophylaxis Community Forum, where the health care community is invited to come together to evaluate RSV prophylaxis and work towards a better system of care.
-Encouraged and initiated medical community input into legislation as appropriate.
-Supports the Community Health Committee to develop policy, promote leadership and involvement in the community.
-Works with Dept. of Health to share important provider input to make DOH recommendations feasible for providers.
-Monitors national trends such as pay for performance and engages with local partners to give input that is relevant to Hawaii
- 
-
-Annual Chapter Dues:
-
-Oahu Members: $130
-Off Oahu Members: $25
-Retired Fellow $0
-Associate Member $0
-Resident $0
-Honorary Fellow $0
-
-
 # Officers and Committee Chairs: July 1, 2016-June 30, 2019
 
 ## Board of Directors
