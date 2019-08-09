@@ -8,5 +8,5 @@ title: Home
 weight: 1
 ---
 
-# Terrassa
-## The Hugo theme for you. Or for your company.
+
+![Logo](/images/Hawaii_arrangement_1A_png.png) 

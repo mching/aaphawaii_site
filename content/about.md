@@ -7,12 +7,166 @@ title: About
 weight: 3
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Felis donec et odio pellentesque diam. Sapien nec sagittis aliquam malesuada bibendum. Velit dignissim sodales ut eu sem integer vitae justo. Vulputate sapien nec sagittis aliquam malesuada bibendum. Eu ultrices vitae auctor eu augue ut. Amet mattis vulputate enim nulla aliquet porttitor lacus luctus. Mauris in aliquam sem fringilla. Sed faucibus turpis in eu mi bibendum. Nunc consequat interdum varius sit amet mattis vulputate enim. Tincidunt praesent semper feugiat nibh sed pulvinar. Curabitur vitae nunc sed velit dignissim sodales ut eu sem. Arcu odio ut sem nulla pharetra diam sit amet. Vitae justo eget magna fermentum iaculis. Sit amet consectetur adipiscing elit ut aliquam. Suspendisse sed nisi lacus sed viverra tellus in hac. Arcu felis bibendum ut tristique et egestas. Egestas pretium aenean pharetra magna ac placerat vestibulum. Tempus egestas sed sed risus pretium quam vulputate.
 
-Quam nulla porttitor massa id neque. Convallis convallis tellus id interdum velit laoreet id donec ultrices. In mollis nunc sed id semper risus in. Id nibh tortor id aliquet. Amet mattis vulputate enim nulla aliquet porttitor lacus. Eget nulla facilisi etiam dignissim diam quis enim lobortis scelerisque. Interdum consectetur libero id faucibus nisl tincidunt eget nullam. Hac habitasse platea dictumst vestibulum rhoncus est pellentesque. Facilisis mauris sit amet massa vitae tortor. Massa placerat duis ultricies lacus sed. Lectus sit amet est placerat in egestas erat imperdiet. Tempus egestas sed sed risus. Congue eu consequat ac felis donec et odio pellentesque diam. Volutpat lacus laoreet non curabitur gravida arcu. Tortor dignissim convallis aenean et tortor. Pretium vulputate sapien nec sagittis aliquam malesuada bibendum arcu. Sit amet luctus venenatis lectus magna fringilla urna porttitor.
+# Who We Are
+The Chapter is a voluntary organization of over 300 members in private, group, military and academic practice as well as pediatricians in training and other non-pediatric physicians interested in Child Health issues.
 
-Elementum pulvinar etiam non quam. Vulputate enim nulla aliquet porttitor lacus luctus accumsan tortor posuere. Ut tristique et egestas quis ipsum suspendisse ultrices gravida dictum. Dui ut ornare lectus sit. Commodo sed egestas egestas fringilla phasellus faucibus scelerisque eleifend. Venenatis cras sed felis eget velit. Lectus mauris ultrices eros in cursus turpis massa tincidunt dui. Ac turpis egestas maecenas pharetra convallis posuere morbi leo urna. Sed odio morbi quis commodo odio aenean. Adipiscing at in tellus integer feugiat scelerisque varius. Massa sapien faucibus et molestie ac feugiat sed. Dolor purus non enim praesent elementum facilisis. Vitae suscipit tellus mauris a diam maecenas. Vel fringilla est ullamcorper eget nulla facilisi etiam dignissim diam. Vitae et leo duis ut diam quam. Lectus quam id leo in vitae turpis. Vitae ultricies leo integer malesuada nunc.
+# What We Stand For
 
-Ornare lectus sit amet est placerat in egestas erat. Massa vitae tortor condimentum lacinia quis vel. Ornare massa eget egestas purus. Varius quam quisque id diam vel quam. Convallis tellus id interdum velit. Aenean pharetra magna ac placerat vestibulum. Vitae congue eu consequat ac felis donec et. Dignissim suspendisse in est ante in nibh mauris. Lobortis scelerisque fermentum dui faucibus in ornare. At urna condimentum mattis pellentesque id nibh tortor id. Purus non enim praesent elementum facilisis leo vel. Rutrum quisque non tellus orci ac auctor augue mauris. Eget arcu dictum varius duis at consectetur lorem. Elit scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique. Quam pellentesque nec nam aliquam sem. Dignissim convallis aenean et tortor at risus viverra adipiscing at. Ante in nibh mauris cursus. At risus viverra adipiscing at in tellus.
+Our mission of the Hawaii Chapter is to attain optimal physical, mental and social health and well-being for infants, children, adolescents and young adults. We will accomplish this mission by addressing the needs of children, their families and their communities, and by supporting Chapter members through advocacy, education, research, service and improving the systems through which they deliver pediatric care.
 
-Duis at tellus at urna condimentum. Felis bibendum ut tristique et egestas quis. Diam vel quam elementum pulvinar etiam non quam lacus suspendisse. Dui accumsan sit amet nulla facilisi morbi tempus iaculis. Congue eu consequat ac felis donec et. Mattis pellentesque id nibh tortor id aliquet lectus proin. Interdum varius sit amet mattis vulputate enim nulla. Aenean et tortor at risus viverra adipiscing at in. Diam volutpat commodo sed egestas egestas. Nulla pharetra diam sit amet nisl. Odio pellentesque diam volutpat commodo sed egestas egestas fringilla. Augue interdum velit euismod in pellentesque massa. Tempus egestas sed sed risus. Id semper risus in hendrerit gravida rutrum quisque non. Cras ornare arcu dui vivamus arcu felis bibendum ut. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Volutpat diam ut venenatis tellus in metus.
+The Chapter will work together with the national AAP, the Hawaii Medical Association, the County Medical Societies, State and County governmental agencies, health care facilities and organizations, and other organizations and individuals interested in the health and well being of Hawaii’s children.
+
+# What We Are Up To
+
+The Chapter holds dinner meetings sharing news from the AAP and local topics of interest to Pediatricians. Two half-day conferences are held in the Spring and the Fall.  CME is offered.
+
+Chapter members represent the interests of children and their doctors on numerous committee and boards, in State government (such as DOE and DOH) as well as in public/private coalitions.
+
+# Chapter Facts
+I already belong to the National AAP, why should I become a member of the Hawaii Chapter?
+
+Hawaii Chapter is a forum for member ideas, concerns and communication that impact you at the local as well as national level.
+
+
+Advocacy
+
+HAAP is actively examining the needs of the children we treat as well as the needs of the pediatricians in our community. We have sought to establish dialogue and credibility with those that set health care policy. By joining the chapter one can more effectively participate in making the concerns of pediatricians known and contribute to the work needed to change our health care environment so that we can continuously push to deliver health care for children in a more optimal manner.
+Increase your knowledge of advocacy activities at a local level.
+Increase involvement in the legislative arena to positively influence the quality of pediatric practice and the welfare of children in your state.
+Build coalitions with other organizations working toward improving children’s health and well-being.
+Promote the interests of Hawaii pediatricians in the American Academy of Pediatrics.
+ 
+
+Leadership
+
+Participate in chapter initiatives in the community.
+ 
+
+Networking
+
+Network with other pediatricians with similar interests.
+Be nominated to serve on national AAP committees and sections.
+ 
+
+Education
+
+Receive informative Chapter communiqués.
+Members receive discounted registration fees for CME meetings and other events.
+Become familiar with the issues facing pediatricians in Hawaii.
+ 
+
+What has your Chapter done lately?
+
+Sponsored a half-day education meeting, both in the Spring and Fall, providing attendees with CME.
+Dinner meetings with presentations on local hot topics.
+Partners with the Healthy Child Care Hawaii project to train and link pediatricians as health consultants to child care centers.
+Partners with HICORE (Hawaii Initiative on Childhood Obesity Research and Education) to educate physicians and the community on childhood obesity issues.
+Participates in the annual RSV Prophylaxis Community Forum, where the health care community is invited to come together to evaluate RSV prophylaxis and work towards a better system of care.
+Encouraged and initiated medical community input into legislation as appropriate.
+Supports the Community Health Committee to develop policy, promote leadership and involvement in the community.
+Works with Dept. of Health to share important provider input to make DOH recommendations feasible for providers.
+Monitors national trends such as pay for performance and engages with local partners to give input that is relevant to Hawaii
+ 
+
+Annual Chapter Dues:
+
+Oahu Members: $130
+Off Oahu Members: $25
+Retired Fellow $0
+Associate Member $0
+Resident $0
+Honorary Fellow $0
+
+
+# Officers and Committee Chairs: July 1, 2016-June 30, 2019
+
+## Board of Directors
+
+Mae Kyono, MD, FAAP
+President
+
+Michael Ching, MD, MPH, FAAP
+Vice President
+
+Joy Quensell, MD, FAAP
+Secretary
+
+Vince Yamashiroya, MD, FAAP
+Treasurer
+
+R. Michael Hamilton, MD, MS, FAAP
+Immediate Past President
+
+Brent Tamamoto, MD, FAAP
+Lorene Ng, MD, FAAP
+Jenny Welham, MD, FAAP
+Members at Large
+
+ 
+
+## Committee Chairs
+
+Lisa Kahikina, MD
+Breastfeeding
+
+Kara Yamamoto, MD, FAAP
+CATCH (Community Access to Child Health)
+
+Michael Ching, MD, MPH, FAAP
+Chair-Conferences
+
+Louise Iwaishi, MD, FAAP
+Community Relations
+
+Peter Di Rocco, MD
+Disaster Preparedness
+
+Mari Uehara, MD
+Early Learning Advisory Board (ELAB)
+
+Natascha Ching, MD, FAAP
+Hawaii Immunization Coalition (HIC)
+
+Healthy Child Care Hawaii (HCCH)
+
+Galen Chock, MD, FAAP
+Ka Huliau
+
+Mike Hamilton, MD, MS, FAAP
+Legislative/Advocacy
+
+Brian Wu, MD
+Medical Home Asthma, Allergy, Anaphylaxis
+
+O’Kelly, MD, FAAP
+Mental Health Amanda
+
+Brent Tamamoto, MD, FAAP
+Program Chair
+
+May Okihiro, MD
+Obesity
+
+Robert Hagbom, MD (3rd year)
+Residents
+
+Kevin Makini, MD (2nd year)
+Residents
+
+Rian Yalamanchili, MD (1st year)
+Residents
+
+Social Media
+Vince Yamashiroya, MD, FAAP
+
+Special Needs
+
+Bryan Mih, MD, FAAP
+Tobacco Prevention
+
+Kenneth Nakamura, MD, FAAP
+UH JABSOM, Pediatrics Chair
+
+Kara Wong Ramsey, MD, FAAP
+Young Physicians
